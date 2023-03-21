@@ -2,16 +2,16 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1s76FRi0J3zNhOz28_3MSDrKwZ8w1Oqx1-H1ckfv7W7s/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Federated learning for COVID-19 screening from Chest X-ray images
 
 Link to the paper:
-https://ieeexplore......
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7979273/
 
 Group Number:
-0
+1
 
 Individual Submitter:
-12345678 Name A
+22266008 Name Salman Ibne Eunus
