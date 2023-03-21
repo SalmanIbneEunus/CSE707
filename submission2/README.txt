@@ -1,4 +1,4 @@
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: 
 https://youtu.be/zPz5mJ1HPks
 
 Public link to the slide (Anyone on the internet can view without login):
